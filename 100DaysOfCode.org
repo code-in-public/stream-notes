@@ -13,14 +13,11 @@
 *** Twitch meme splash overlay
 ** Learn functional programming
 *** LISP/Schemer
-
 * Log
 ** Day 1
 *** Made a plan and figured out my why
 *** Worked on Linked list questions and ways to reverse a linked list
-
 ** Day 2
 *** Python sort function with custom comparitor
-
 ** Day 8
 *** More leetcode questions

@@ -1,0 +1,13 @@
+#+TITLE: Raytracer
+* What are we building?
+** A ray tracer!
+*** Following the ray tracer challenge book: http://raytracerchallenge.com/
+*** Implementing the Whitted raytracer algorithm - "An improved illumintation model for shaded displays"
+*** Recursive Raytracing:
+**** Cast a ray into the scene and figure out when it hits the surface of something
+**** Cast a ray from that point toward each of the light sources the determine which lights illuminate that point
+**** If the surface is reflective, cast a new ray in the direction of the reflection and recursively determine the color of that point
+**** If the surface is transparent, do the same in the direction of the refraction
+**** Combine all the colors to that point, the surface color, reflection and refraction.
+* Notes
+* Todos
