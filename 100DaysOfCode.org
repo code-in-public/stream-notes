@@ -1,1 +1,26 @@
 #+TITLE: 100 Days of code
+
+* Rules
+** Code minimum an hour every day for the next 100 days.
+** Tweet your progress every day with the #100DaysOfCode hashtag.
+* My Why!
+** Brush up on CS fundementals
+*** Algorithms and Datastructures - Lots of this
+*** LeetCode
+** Project
+*** Java raytracer challenge !raytracer
+*** Twitch drop game scoreboard
+*** Twitch meme splash overlay
+** Learn functional programming
+*** LISP/Schemer
+
+* Log
+** Day 1
+*** Made a plan and figured out my why
+*** Worked on Linked list questions and ways to reverse a linked list
+
+** Day 2
+*** Python sort function with custom comparitor
+
+** Day 8
+*** More leetcode questions

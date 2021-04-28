@@ -1,0 +1,18 @@
+#+TITLE: Prestream Checklist
+
+* Set the stream title via twitch
+* Make sure OBS input sound is correct
+** Set the volumes correctly:
+OBS Capture Device: -8.5 db
+Pretzel Rocks 65% (Could be slightly lower, but this is around the same volume as me talking)
+* Ensure that the Dev machine audio input device is set correctly
+* Test notifications overlay
+* Test !drop
+* Update the !project or !leetcode commands
+* Ensure GoXLR profile is correct (Streamming!!)
+* Open Twitch chat
+* Get Music playing
+* Mute Mic
+* Start stream
+* Tweet about stream starting
+* Set editor font to large ( Big font mode )
