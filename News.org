@@ -1,0 +1,34 @@
+#+TITLE: News
+
+* I QUIT MY JOB!!!! HOLY SHIT!!!
+
+* How to actually prep
+** Just doing interviews... good and bad!
+
+* Tools
+** hired.com (24 interested companies)
+** Linkedin (2)
+** Email for compainies (3)
+
+* Small companies dont have a clue how to interview! (not all, but most)
+** Karat - All they want is a complete solution! (speed! the metric)
+
+* About 10 Onsite interviews
+** 4 offers
+
+* Interview breakdowns
+** 2 Coding rounds
+** System design
+** Culture fit
+
+* Mental and emotional prep work
+** Don't feed the monkey mind
+
+* Why did I quit, when did I know it was time to quit
+
+* Interview areas
+** Coding LOTS AND LOTS
+*** Coding stuff you really havent seen
+*** Coding stuff like Datastructs REALLY Fast
+*** System Design Interview Book
+**** Desiging data intensive applications

@@ -1,0 +1,34 @@
+#+TITLE: 17 Aug
+
+Experiments with Pass by value, reference and as a pointer
+
+#+name: method-call-example
+#+begin_src C++
+#include <iostream>
+
+void increase_by_ref(int& n)
+{
+    n += 10;
+}
+
+void increase_by_val(int n)
+{
+    n += 10;
+}
+
+void increase_as_pointer(int* n)
+{
+    ,*n += 10;
+}
+
+int main() {
+    int x = 0;
+    std::cout << "the value of x is " << x << '\n';
+    increase_as_pointer(&x);
+    std::cout << "the value of x is " << x << '\n';
+}
+#+end_src
+
+#+results: method-call-example
+| the | value | of | x | is |  0 |
+| the | value | of | x | is | 10 |
